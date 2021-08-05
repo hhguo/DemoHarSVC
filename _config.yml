@@ -7,8 +7,8 @@ relative_links:
 github:
   is_project_page: false
  
-title: Conversational End-to-End TTS for Voice Agents
+title: Improving Adversarial Waveform Generation based Singing Voice Conversion with Harmonic Signals
 description:
-  Haohan Guo<sup>1</sup>, Shaofei Zhang<sup>2</sup>, Frank K. Soong<sup>2</sup>, Lei He<sup>2</sup>, Lei Xie<sup>1</sup> <br>
-  <sup>1</sup>Audio, Speech and Language Processing Group (ASLP@NPU), School of Computer Science, Northwestern Polytechnical University, Xi’an, China <br>
-  <sup>2</sup>Microsoft China
+  Haohan Guo<sup>1</sup>, Zhiping Zhou<sup>2</sup>,  Fanbo Meng<sup>2</sup>, Kai Liu<sup>2</sup>, Helen Meng<sup>1</sup> <br>
+  <sup>1</sup>The Chinese University of Hong Kong, Hong Kong SAR, China <br>
+  <sup>2</sup>Sogou Inc., Beijing, China
