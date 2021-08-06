@@ -89,29 +89,6 @@ Adversarial waveform generation has been a popular approach as the backend of si
     </tr>
     <tr>
         <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/source/F004_01-03.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/target/F004_01-03.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/melgan/F004_01-03.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/melgan_h/F004_01-03.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/pwg/F004_01-03.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/pwg_s/F004_01-03.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/pwg_h/F004_01-03.wav"></audio>
-        </td>
-    </tr>
-    <tr>
-        <td style="word-wrap:break-word;text-align:center">
             <audio controls style="width: 100px;text-align:center"><source src="./sample/source/M001_01-04.wav"></audio>
         </td>
         <td style="word-wrap:break-word;text-align:center">
@@ -177,29 +154,6 @@ Adversarial waveform generation has been a popular approach as the backend of si
         </td>
         <td style="word-wrap:break-word;text-align:center">
             <audio controls style="width: 100px;text-align:center"><source src="./sample/pwg_h/M003_01-00.wav"></audio>
-        </td>
-    </tr>
-    <tr>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/source/M004_01-09.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/target/M004_01-09.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/melgan/M004_01-09.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/melgan_h/M004_01-09.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/pwg/M004_01-09.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/pwg_s/M004_01-09.wav"></audio>
-        </td>
-        <td style="word-wrap:break-word;text-align:center">
-            <audio controls style="width: 100px;text-align:center"><source src="./sample/pwg_h/M004_01-09.wav"></audio>
         </td>
     </tr>
 </table>
